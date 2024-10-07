@@ -1,2 +1,2 @@
-# Neutral-networks
+# Neural-networks
 homework
